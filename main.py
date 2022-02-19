@@ -13,4 +13,3 @@ class MyApp(App):
 
 if __name__ == '__main__':
     MyApp().run()
-# cghm
